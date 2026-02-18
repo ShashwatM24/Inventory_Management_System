@@ -215,7 +215,3 @@ Created with ❤️ for efficient inventory management
 - Check `bills/` directory exists
 - Verify write permissions
 - Install fpdf2: `pip install fpdf2`
-
-## 📞 Support
-
-For issues and questions, please open an issue on GitHub.
